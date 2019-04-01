@@ -80,4 +80,9 @@
  2019-03-28 21:00:39,992  INFO [main] banking:20 - Password entered
  2019-03-28 21:00:49,313  INFO [main] banking:22 - Button clicked
  2019-03-28 21:00:49,339  INFO [main] banking:27 - Login successful
+ 2019-03-29 22:08:54,494  INFO [main] banking:53 - URL opened
+ 2019-03-29 22:09:04,522  INFO [main] banking:18 - Username entered
+ 2019-03-29 22:09:04,930  INFO [main] banking:20 - Password entered
+ 2019-03-29 22:09:12,928  INFO [main] banking:22 - Button clicked
+ 2019-03-29 22:09:13,062  INFO [main] banking:27 - Login successful
  
