@@ -4,13 +4,13 @@
   <test thread-count="5" name="tapp(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
-      <class name="com.qa.Testcases.TC_LoginTest_001">
+      <class name="com.qa.Testcases.TC_AddCustomer_002">
         <methods>
           <include name="setup"/>
           <include name="close"/>
-          <include name="LoginTest"/>
+          <include name="addnewcust"/>
         </methods>
-      </class> <!-- com.qa.Testcases.TC_LoginTest_001 -->
+      </class> <!-- com.qa.Testcases.TC_AddCustomer_002 -->
     </classes>
   </test> <!-- tapp(failed) -->
 </suite> <!-- Failed suite [banking] -->

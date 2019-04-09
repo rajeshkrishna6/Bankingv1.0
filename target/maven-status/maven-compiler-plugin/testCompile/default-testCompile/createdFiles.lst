@@ -1,5 +1,7 @@
+com\qa\Testcases\TC_AddCustomer_002.class
+com\qa\Testcases\BaseClass.class
+com\qa\pageObjects\NewCustomer.class
 com\qa\pageObjects\LoginPage.class
 com\qa\Testcases\TC_LoginTest_001.class
-com\qa\Testcases\BaseClass.class
 com\qa\utilities\ReadConfig.class
 com\qa\utilities\Reporting.class

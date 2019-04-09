@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="banking" duration-ms="156177" started-at="2019-03-29T16:36:38Z" finished-at="2019-03-29T16:39:14Z">
+  <suite name="banking" duration-ms="83462" started-at="2019-04-09T12:00:05Z" finished-at="2019-04-09T12:01:28Z">
     <groups>
     </groups>
-    <test name="tapp" duration-ms="156177" started-at="2019-03-29T16:36:38Z" finished-at="2019-03-29T16:39:14Z">
-      <class name="com.qa.Testcases.TC_LoginTest_001">
-        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.qa.Testcases.TC_LoginTest_001@5b464ce8]" name="setup" is-config="true" duration-ms="136282" started-at="2019-03-29T16:36:38Z" finished-at="2019-03-29T16:38:54Z">
+    <test name="tapp" duration-ms="83462" started-at="2019-04-09T12:00:05Z" finished-at="2019-04-09T12:01:28Z">
+      <class name="com.qa.Testcases.TC_AddCustomer_002">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.qa.Testcases.TC_AddCustomer_002@19dfb72a]" name="setup" is-config="true" duration-ms="42428" started-at="2019-04-09T12:00:05Z" finished-at="2019-04-09T12:00:47Z">
           <params>
             <param index="0">
               <value>
@@ -18,15 +18,15 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method status="PASS" signature="LoginTest()[pri:0, instance:com.qa.Testcases.TC_LoginTest_001@5b464ce8]" name="LoginTest" duration-ms="18208" started-at="2019-03-29T16:38:54Z" finished-at="2019-03-29T16:39:13Z">
+        <test-method status="PASS" signature="addnewcust()[pri:0, instance:com.qa.Testcases.TC_AddCustomer_002@19dfb72a]" name="addnewcust" duration-ms="39574" started-at="2019-04-09T12:00:47Z" finished-at="2019-04-09T12:01:27Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- LoginTest -->
-        <test-method status="PASS" signature="close()[pri:0, instance:com.qa.Testcases.TC_LoginTest_001@5b464ce8]" name="close" is-config="true" duration-ms="1394" started-at="2019-03-29T16:39:13Z" finished-at="2019-03-29T16:39:14Z">
+        </test-method> <!-- addnewcust -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.qa.Testcases.TC_AddCustomer_002@19dfb72a]" name="close" is-config="true" duration-ms="1347" started-at="2019-04-09T12:01:27Z" finished-at="2019-04-09T12:01:28Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- close -->
-      </class> <!-- com.qa.Testcases.TC_LoginTest_001 -->
+      </class> <!-- com.qa.Testcases.TC_AddCustomer_002 -->
     </test> <!-- tapp -->
   </suite> <!-- banking -->
 </testng-results>
